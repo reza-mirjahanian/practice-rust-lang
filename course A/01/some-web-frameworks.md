@@ -1,0 +1,5 @@
+
+1.  **Rocket**: A simple, fast, and type-safe web framework for Rust that allows you to define your backend endpoints in a concise way by taking advantage of Rust's macro system.
+2.  **Surreal DB**: A new, forward-looking database that combines features from relational, graph, and document paradigms. It has a query language called SurrealQL, which is very similar to SQL, allowing you to get up and running quickly.
+3.  **Tower**: A framework for building desktop applications using web technologies like HTML, CSS, and JavaScript for the front-end and Rust for the back-end. It's similar to Electron but produces binaries that are smaller, faster, and more secure.
+4.  **Yew**: A component-based UI framework like React, except it allows you to write your web apps in Rust, which is then compiled down to WebAssembly.
