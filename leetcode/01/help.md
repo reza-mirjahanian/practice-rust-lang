@@ -1,1 +1,0 @@
-The `vec!` macro can be used in a few different ways to create a `Vec`:
