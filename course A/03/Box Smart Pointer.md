@@ -64,9 +64,9 @@ rust
 
 ### Example
 
-rust
+```rust
 
-`fn main() {
+fn main() {
     let x = Box::new(5);
     
     {
@@ -75,8 +75,9 @@ rust
     }
     
     println!("x: {}", x);
-}` 
+}
 
+```
 Output:
 
 `x: 5, y: 10
